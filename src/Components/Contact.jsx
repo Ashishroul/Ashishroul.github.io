@@ -34,7 +34,7 @@ const Contact = () => {
             <Grid w={["100%", "100%", "60%", "60%", "60%"]} m={"auto"} templateColumns={["repeat(1,1fr)", "repeat(1,1fr)", "repeat(2,1fr)", "repeat(2,1fr)", "repeat(2,1fr)"]} mt={"10px"} rowGap={"10px"}>
                 <GridItem display={"flex"} alignItems={"center"} m={"auto"} gap={"5px"}>
                     <Icon as={EmailIcon} fontSize={"1.5rem"} />
-                    <a href="mailto:paraskamaliya5@gmail.com" target="_blank" rel="noreferrer noopener" id="contact-email">officialashishroul@gmail.com</a>
+                    <a href="mailto:officialashishroul@gmail.com" target="_blank" rel="noreferrer noopener" id="contact-email">officialashishroul@gmail.com</a>
                 </GridItem>
                 <GridItem display={"flex"} alignItems={"center"} m={"auto"} gap={"5px"}>
                     <Icon as={AiFillLinkedin} fontSize={"1.5rem"} id="contact-linkedin" />
@@ -42,7 +42,7 @@ const Contact = () => {
                 </GridItem>
                 <GridItem display={"flex"} alignItems={"center"} m={"auto"} gap={"5px"}>
                     <Icon as={PhoneIcon} fontSize={"1.5rem"} />
-                    <a id="contact-phone" href="tel:+919376464040">+91 7682897542</a>
+                    <a id="contact-phone" href="tel:+917682897542">+91 7682897542</a>
                 </GridItem>
                 <GridItem display={"flex"} alignItems={"center"} m={"auto"} gap={"5px"}>
                     <Icon as={AiFillGithub} fontSize={"1.5rem"} id="contact-github" />

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ashishroul.github.io/static/css/main.dc4d6ff2.css",
-    "main.js": "/Ashishroul.github.io/static/js/main.facb02e1.js",
+    "main.js": "/Ashishroul.github.io/static/js/main.9fb5eb63.js",
     "static/media/Yourpharma.png": "/Ashishroul.github.io/static/media/Yourpharma.93ef4365f7b74cc9ee4b.png",
     "static/media/autopart.png": "/Ashishroul.github.io/static/media/autopart.10f65550b0849d156391.png",
     "static/media/handsanitizer.png": "/Ashishroul.github.io/static/media/handsanitizer.3fc2dfeaf7d89a139d80.png",
@@ -16,10 +16,10 @@
     "static/media/Black Pink Bold Elegant Monogram Personal Brand Logo (1).png": "/Ashishroul.github.io/static/media/Black Pink Bold Elegant Monogram Personal Brand Logo (1).5a4f982b03aa683ac67f.png",
     "index.html": "/Ashishroul.github.io/index.html",
     "main.dc4d6ff2.css.map": "/Ashishroul.github.io/static/css/main.dc4d6ff2.css.map",
-    "main.facb02e1.js.map": "/Ashishroul.github.io/static/js/main.facb02e1.js.map"
+    "main.9fb5eb63.js.map": "/Ashishroul.github.io/static/js/main.9fb5eb63.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.facb02e1.js"
+    "static/js/main.9fb5eb63.js"
   ]
 }

@@ -7,7 +7,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { TOGGLE } from "../Redux/actionType";
 import { MoonIcon, SunIcon } from "@chakra-ui/icons"
 import { useEffect, useRef } from "react";
-import resume from "../assets/Ashish-Roul-Resume.pdf";
+import resume from "../assets/AshishRoul-FullStackWebDeveloper.pdf";
 const Navbar = () => {
     const theme = useSelector(store => store.theme)
     const { isOpen, onOpen, onClose } = useDisclosure();
@@ -24,7 +24,7 @@ const Navbar = () => {
 
     function downloadAndOpenResume() {
         window.open(
-            "https://drive.google.com/file/d/1ukv6bXvr-IM1v6Qzfs7nYnVbC8UGFFca/view"
+            "https://drive.google.com/file/d/1ZZopGLpBkwokE2Ls8zwvaceMygywildr/view?usp=drive_link"
         );
     }
 
@@ -128,7 +128,7 @@ const Navbar = () => {
                             textAlign="center"
                             onClick={() => {
                                 window.open(
-                                    "https://drive.google.com/file/d/1ukv6bXvr-IM1v6Qzfs7nYnVbC8UGFFca/view",
+                                    "https://drive.google.com/file/d/1ZZopGLpBkwokE2Ls8zwvaceMygywildr/view?usp=drive_link",
                                     "_blank",
                                     "noreferrer"
                                 );

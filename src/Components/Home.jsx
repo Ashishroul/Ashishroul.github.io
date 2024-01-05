@@ -2,12 +2,12 @@ import { Box, Button, Heading, Image, Link, Stack, Text } from "@chakra-ui/react
 import ProfilePic from "../Photos/ProfilePic.jpeg"
 import { useSelector } from "react-redux";
 import { DownloadIcon } from "@chakra-ui/icons";
-import resume from "../assets/Ashish-Roul-Resume.pdf";
+import resume from "../assets/AshishRoul-FullStackWebDeveloper.pdf";
 const Home = () => {
     const theme = useSelector(store => store.theme);
     function downloadAndOpenResume() {
         window.open(
-            "https://drive.google.com/file/d/1ukv6bXvr-IM1v6Qzfs7nYnVbC8UGFFca/view"
+            "https://drive.google.com/file/d/1ZZopGLpBkwokE2Ls8zwvaceMygywildr/view?usp=drive_link"
         );
     }
     return <Box bg={theme === "dark" ? "black" : "white"} color={theme === "dark" ? "white" : "black"} w={"100%"} id="home" >
@@ -20,7 +20,7 @@ const Home = () => {
                     <Text textAlign={"left"} fontSize={["1rem", "1rem", "1.2rem", "1.2rem", "1.2rem"]} fontWeight={300} >Skilled Full stack Web developer and experienced <br /> in creating User freindly Interface websites.</Text>
                     <a
                         href={resume}
-                        download={"Ashish-Roul-Resume.pdf"}
+                        download={"AshishRoul-FullStackWebDeveloper.pdf"}
                         style={{
                             textDecoration: "none",
                             textAlign: "center"

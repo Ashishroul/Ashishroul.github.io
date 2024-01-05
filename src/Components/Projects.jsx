@@ -22,14 +22,14 @@ const Projects = () => {
             <Box border={"1px"} w={"100%"} m={"auto"} borderRadius={"10"} p={"0.5rem"} >
                 <Heading textAlign={"center"} color={"#4A90E2"} >Github Stats</Heading>
                 <Box w={"70%"} m={"auto"}>
-                    {theme === "dark" ? <Image id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraskamaliya&layout=donut&langs_count=8&theme=dark" alt="GitHub stats" m={"auto"} /> : <Image id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraskamaliya&layout=donut&langs_count=8&theme=white" alt="GitHub stats" m={"auto"} />}
+                    {theme === "dark" ? <Image id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishroul&layout=donut&langs_count=8&theme=dark" alt="GitHub stats" m={"auto"} /> : <Image id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraskamaliya&layout=donut&langs_count=8&theme=white" alt="GitHub stats" m={"auto"} />}
                 </Box>
                 <Stack direction={["column", "column", "column", "column", "row"]} w={"70%"} m={"auto"} mt={"5px"} justifyContent={"center"}>
-                    <Image id="github-stats-card" src="https://camo.githubusercontent.com/9719bc49f399ee3217ebfbe111171300250b0626e28f85b9294a9a557927d7c0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617368697368726f756c2673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="GitHub stats" />
-                    <Image id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=paraskamaliya&theme=transparent" alt="GitHub Streak" style={{ maxWidth: "100%" }} />
+                    <Image id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=ashishroul&show_icons=true&theme=transparent" alt="GitHub stats" />
+                    <Image id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=ashishroul&theme=transparent" alt="GitHub Streak" style={{ maxWidth: "100%" }} />
                 </Stack>
                 <Box w={"80%"} m={"auto"} className="react-activity-calendar">
-                    <Image src="https://ghchart.rshah.org/006AFF/paraskamaliya" alt="Github Contribution" m={"auto"} />
+                    <Image src="https://ghchart.rshah.org/006AFF/ashishroul" alt="Github Contribution" m={"auto"} />
                 </Box>
             </Box>
         </Box>

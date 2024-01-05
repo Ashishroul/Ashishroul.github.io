@@ -20,7 +20,7 @@ const Home = () => {
                     <Text textAlign={"left"} fontSize={["1rem", "1rem", "1.2rem", "1.2rem", "1.2rem"]} fontWeight={300} >Skilled Full stack Web developer and experienced <br /> in creating User freindly Interface websites.</Text>
                     <a
                         href={resume}
-                        download={"AshishRoul-FullStackWebDeveloper.pdf"}
+                        download={resume}
                         style={{
                             textDecoration: "none",
                             textAlign: "center"

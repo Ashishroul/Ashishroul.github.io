@@ -24,7 +24,7 @@ const Navbar = () => {
 
     function downloadAndOpenResume() {
         window.open(
-            "https://drive.google.com/file/d/1h7tPiRi-4pJ31nvYBGaaU6HLmcrQVtgM/view?usp=sharing"
+            "https://drive.google.com/file/d/1uBGQeIHB96nrQT6VFuYXc0LLBZK1xrjI/view?usp=sharing"
         );
     }
 
@@ -119,7 +119,7 @@ const Navbar = () => {
 
                         <ChakraLink
                             href={resume}
-                            download={resume}
+                            download={"Ashish-Roul-Resume.pdf"}
                             style={{
                                 textDecoration: "none",
                             }}
@@ -128,7 +128,7 @@ const Navbar = () => {
                             textAlign="center"
                             onClick={() => {
                                 window.open(
-                                    "https://drive.google.com/file/d/1h7tPiRi-4pJ31nvYBGaaU6HLmcrQVtgM/view?usp=sharing",
+                                    "https://drive.google.com/file/d/1uBGQeIHB96nrQT6VFuYXc0LLBZK1xrjI/view?usp=sharing",
                                     "_blank",
                                     "noreferrer"
                                 );

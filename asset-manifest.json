@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dc4d6ff2.css",
-    "main.js": "/static/js/main.2e0440b7.js",
+    "main.js": "/static/js/main.88f6151c.js",
     "static/media/Yourpharma.png": "/static/media/Yourpharma.93ef4365f7b74cc9ee4b.png",
     "static/media/autopart.png": "/static/media/autopart.10f65550b0849d156391.png",
     "static/media/handsanitizer.png": "/static/media/handsanitizer.3fc2dfeaf7d89a139d80.png",
@@ -16,10 +16,10 @@
     "static/media/Black Pink Bold Elegant Monogram Personal Brand Logo (1).png": "/static/media/Black Pink Bold Elegant Monogram Personal Brand Logo (1).5a4f982b03aa683ac67f.png",
     "index.html": "/index.html",
     "main.dc4d6ff2.css.map": "/static/css/main.dc4d6ff2.css.map",
-    "main.2e0440b7.js.map": "/static/js/main.2e0440b7.js.map"
+    "main.88f6151c.js.map": "/static/js/main.88f6151c.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.2e0440b7.js"
+    "static/js/main.88f6151c.js"
   ]
 }

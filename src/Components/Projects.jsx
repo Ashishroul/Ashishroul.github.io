@@ -3,7 +3,7 @@ import AutoPart from "../Project Component/AutoPart";
 import Yourpharma from "../Project Component/Yourpharma";
 import HandSanitizer from "../Project Component/HandSanitizer";
 import { useSelector } from "react-redux";
-
+import OverStock from "../Project Component/OverStock";
 
 
 const Projects = () => {
@@ -17,7 +17,7 @@ const Projects = () => {
                
                 <Yourpharma />
                 <AutoPart />
-              
+                <OverStock/>
             </Box>
             <Box border={"1px"} w={"100%"} m={"auto"} borderRadius={"10"} p={"0.5rem"} >
                 <Heading textAlign={"center"} color={"#4A90E2"} >Github Stats</Heading>

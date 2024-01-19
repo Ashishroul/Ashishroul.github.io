@@ -1,5 +1,5 @@
 import { Box, Button, Heading, Image, Link, Stack, Text } from "@chakra-ui/react"
-import ProfilePic from "../Photos/ProfilePic.jpeg"
+import ProfilePic from "../Photos/ProfilePic.jpg"
 import { useSelector } from "react-redux";
 import { DownloadIcon } from "@chakra-ui/icons";
 import resume from "../assets/Ashish-Roul-Resume.pdf";

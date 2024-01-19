@@ -40,7 +40,7 @@ const Contact = () => {
                     <Icon as={AiFillLinkedin} fontSize={"1.5rem"} id="contact-linkedin" />
                     <a href="https://www.linkedin.com/in/ashish-roul-77581815b/" target="_blank" rel="noreferrer noopener">LinkedIn</a>
                 </GridItem>
-                <GridItem display={"flex"} alignItems={"center"} m={"auto"} gap={"5px"}>
+                <GridItem display={"flex"} alignItems={"start"} m={"auto"} gap={"5px"}>
                     <Icon as={PhoneIcon} fontSize={"1.5rem"} />
                     <a id="contact-phone" href="tel:+917682897542">+91 7682897542</a>
                 </GridItem>

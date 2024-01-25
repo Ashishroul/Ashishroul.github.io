@@ -94,12 +94,12 @@ const About = () => {
                 >
                   <Icon
                     as={TiLocation}
-                    fontSize={["1rem", "1rem", "1.5rem", "1.5rem", "1.5rem"]}
+                    fontSize={["1.5rem", "1.5rem", "1.5rem", "1.5rem", "1.5rem"]}
                   />{" "}
                 </a>
               </GridItem>
               <GridItem
-                fontSize={["1rem", "1rem", "1.5rem", "1.5rem", "1.5rem"]}
+                fontSize={["1.5rem", "1.5rem", "1.5rem", "1.5rem", "1.5rem"]}
                 m="auto"
                 textAlign={"center"}
               >
@@ -110,12 +110,12 @@ const About = () => {
                 >
                   <Icon
                     as={EmailIcon}
-                    fontSize={["1rem", "1rem", "1.5rem", "1.5rem", "1.5rem"]}
+                    fontSize={["1.5rem", "1.5rem", "1.5rem", "1.5rem", "1.5rem"]}
                   />{" "}
                 </a>
               </GridItem>
               <GridItem
-                fontSize={["1rem", "1rem", "1.5rem", "1.5rem", "1.5rem"]}
+                fontSize={["1.5rem", "1.5rem", "1.5rem", "1.5rem", "1.5rem"]}
                 m="auto"
                 textAlign={"center"}
               >
@@ -126,12 +126,12 @@ const About = () => {
                 >
                   <Icon
                     as={AiFillGithub}
-                    fontSize={["1rem", "1rem", "1.5rem", "1.5rem", "1.5rem"]}
+                    fontSize={["1.5rem", "1.5rem", "1.5rem", "1.5rem", "1.5rem"]}
                   />{" "}
                 </a>
               </GridItem>
               <GridItem
-                fontSize={["1rem", "1rem", "1.5rem", "1.5rem", "1.5rem"]}
+                fontSize={["1.5rem", "1.5rem", "1.5rem", "1.5rem", "1.5rem"]}
                 m="auto"
                 textAlign={"center"}
               >
@@ -143,7 +143,7 @@ const About = () => {
                   {" "}
                   <Icon
                     as={AiFillLinkedin}
-                    fontSize={["1rem", "1rem", "1.5rem", "1.5rem", "1.5rem"]}
+                    fontSize={["1.5rem", "1.5rem", "1.5rem", "1.5rem", "1.5rem"]}
                   />{" "}
                 </a>
               </GridItem>

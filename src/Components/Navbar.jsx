@@ -128,7 +128,7 @@ const Navbar = () => {
                             textAlign="center"
                             onClick={() => {
                                 window.open(
-                                    "https://drive.google.com/file/d/1uBGQeIHB96nrQT6VFuYXc0LLBZK1xrjI/view?usp=sharing",
+                                    "https://drive.google.com/file/d/17EetN0Ys_Uh_9lEadezNEmC7j_EyIwKo/view?usp=sharing",
                                     "_blank",
                                     "noreferrer"
                                 );

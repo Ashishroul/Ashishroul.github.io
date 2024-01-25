@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dc4d6ff2.css",
-    "main.js": "/static/js/main.6f00f9fa.js",
+    "main.js": "/static/js/main.8813491c.js",
     "static/media/Overstock.png": "/static/media/Overstock.0e44f548748d7cfa26d3.png",
     "static/media/Yourpharma.png": "/static/media/Yourpharma.93ef4365f7b74cc9ee4b.png",
     "static/media/autopart.png": "/static/media/autopart.10f65550b0849d156391.png",
@@ -17,10 +17,10 @@
     "static/media/Black Pink Bold Elegant Monogram Personal Brand Logo (1).png": "/static/media/Black Pink Bold Elegant Monogram Personal Brand Logo (1).5a4f982b03aa683ac67f.png",
     "index.html": "/index.html",
     "main.dc4d6ff2.css.map": "/static/css/main.dc4d6ff2.css.map",
-    "main.6f00f9fa.js.map": "/static/js/main.6f00f9fa.js.map"
+    "main.8813491c.js.map": "/static/js/main.8813491c.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.6f00f9fa.js"
+    "static/js/main.8813491c.js"
   ]
 }

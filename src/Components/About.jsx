@@ -50,14 +50,14 @@ const About = () => {
               m={"auto"}
               id="user-detail-intro"
             >
-A web development enthusiast from Bhubneswar, Odisha. My passion
-lies in mastering the{" "}
-<span style={{ color: "#4A90E2" }}>MERN stack</span>. While new to the field, I have gained{" "}
-<span style={{ color: "#4A90E2" }}>hands-on experience</span> with
-React, Node.js, Express, and MongoDB during my studies. Dedicated to crafting user-friendly interfaces and scalable
-backends, constantly expanding my skillset. If you have
-opportunities for someone starting out like me, please connect.
-Thank you for considering my profile.
+                A web development enthusiast from Bhubneswar, Odisha. My passion
+                lies in mastering the{" "}
+                <span style={{ color: "#4A90E2" }}>MERN stack</span>. While new to the field, I have gained{" "}
+                <span style={{ color: "#4A90E2" }}>hands-on experience</span> with
+                React, Node.js, Express, and MongoDB during my studies. Dedicated to crafting user-friendly interfaces and scalable
+                backends, constantly expanding my skillset. If you have
+                opportunities for someone starting out like me, please connect.
+                Thank you for considering my profile.
 
             </Text>
             <br />

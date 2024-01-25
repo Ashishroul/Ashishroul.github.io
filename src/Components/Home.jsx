@@ -34,8 +34,8 @@ const Home = () => {
                         </Button>
                     </a>
                 </Box>
-                <Box w={["100%", "85%", "70%", "50%", "50%"]} m={"auto"} position={"sticky"} h={"100%"} alignItems={"flex-end"}>
-                    <Image src={ProfilePic} m={"auto"} objectFit={"cover"} className="home-img" alt="profilepic" flex={1} />
+                <Box w={["100%", "85%", "70%", "50%", "50%"]} m={"auto"} position={"sticky"} h={"20%"} alignItems={"flex-end"}>
+                    <Image src={ProfilePic} m={"auto"} className="home-img" alt="profilepic" flex={1}/>
                 </Box>
             </Stack>
         </Box >
